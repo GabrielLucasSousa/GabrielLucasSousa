@@ -1,7 +1,7 @@
 ### olá! eu sou o Gabriel Lucas 
 - ✔ Hoje trabalho com a linguagem C e java 
 - 👨‍💻 estou interessado na area de desenvolvimento 
-- 🌱 estou estudando cloud
+- 🌱 estou estudando cloud, Engenharia da computação
 - 📫 contrate-me no email: gabriel172586@gmail.com
 
 
