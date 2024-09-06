@@ -1,11 +1,11 @@
-### olá! eu sou o Gabriel Lucas 
-- ✔ Hoje trabalho com a linguagem C e java 
-- 👨‍💻 estou interessado na area de desenvolvimento 
-- 🌱 estou estudando cloud, Engenharia da computação
-- 📫 contrate-me no email: gabriel172586@gmail.com
+<p align="left">Stats</p>
 
+###
 
-<!---
-GabrielLucasSousa/GabrielLucasSousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLucasSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLucasSousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="122" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielLucasSousa&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
