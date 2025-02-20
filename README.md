@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello world! I'm Computer Engineering Student<br>with experience in sql python and java and C,r</p>
+<p align="left">Hello world! I'm Computer Engineering Student<br>with experience in sql python and java and C</p>
 
 ###
 
