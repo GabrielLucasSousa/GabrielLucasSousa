@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer Engineering Student<br>- C and Java Developer</p>
+<p align="left">Hello world! Computer Engineering Student<br> C and Java Developer</p>
 
 ###
 
