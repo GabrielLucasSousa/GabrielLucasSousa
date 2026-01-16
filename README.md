@@ -1,59 +1,47 @@
-<h2 align="left">About Me</h2>
+<h1 align="left">Hey there👋</h1>
 
 ###
 
-<p align="left">Hello world! I'm Computer Engineering Student<br>with experience in sql python and java and C</p>
+<p align="left">RPA & Power Platform Developer | AI & Automation Enthusiast</p>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Engineering background focused on transforming manual processes into intelligent, scalable workflows. I work at the intersection of  Low-Code and Pro-Code to deliver real business results.<br><br> 🚀 What I Do:<br>Process Automation: Specialist in Power Automate and Blue Prism, with a track record of  30–40% manual effort reduction  in enterprise environments.<br>Low-Code & Data: Developing Power Apps and Power BI dashboards integrated with SQL and SharePoint.<br> Pro-Code & AI:  Building robust automations with Python, Selenium, and REST API integrations for AI-enabled workflows.<br> Governance:  Experience supporting ACOE (Center of Excellence) teams, contributing to reusable components and automation standards.<br><br> 🛠️ Tech Stack:<br>Low-Code: Power Platform (Apps, Automate, BI), SharePoint.<br>RPA: Blue Prism, Selenium.<br>Languages: Python, C, Java, SQL, Regex.<br>Tools: Git, Workflow Orchestration, Data Pipelines.<br><br> 📊 Impact in Numbers:<br> ⚡ +35% improvement in process execution speed.<br> 📉 40% reduction in repetitive manual tasks.<br> 🤖 Implemented automated email triage and data monitoring solutions.<br><br> 🌱 Currently:<br> 💡 Exploring AI-driven automation and scalable architectures.<br> 🗣️ Strengthening English communication skills for global environments.<br> 📫 Reach me at: linkedin.com/in/gabriellucassousa/ | gabriel172586@gmail.com</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<p align="left">Stats</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLucasSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLucasSousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="122" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielLucasSousa&radius=16&theme=material&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-vc-sousa-cardoso-531650254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/27209651/gabriel-lucas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/31biel/?hl=es&img_index=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
 ###
