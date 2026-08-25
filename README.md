@@ -1,8 +1,8 @@
-olahndo com oque mecho hoje em dai modifique meu git <h1 align="left">Hey there👋</h1>
+<h1 align="left">Hey there👋</h1>
 
 ###
 
-<p align="left">RPA & Power Platform Developer | AI & Automation Enthusiast</p>
+<p align="left">Software & Automation Engineer at Stellantis | AI & Digital Transformation Enthusiast</p>
 
 ###
 
@@ -10,7 +10,34 @@ olahndo com oque mecho hoje em dai modifique meu git <h1 align="left">Hey there�
 
 ###
 
-<p align="left">Engineering background focused on transforming manual processes into intelligent, scalable workflows. I work at the intersection of  Low-Code and Pro-Code to deliver real business results.<br><br> 🚀 What I Do:<br>Process Automation: Specialist in Power Automate and Blue Prism, with a track record of  30–40% manual effort reduction  in enterprise environments.<br>Low-Code & Data: Developing Power Apps and Power BI dashboards integrated with SQL and SharePoint.<br> Pro-Code & AI:  Building robust automations with Python, Selenium, and REST API integrations for AI-enabled workflows.<br> Governance:  Experience supporting ACOE (Center of Excellence) teams, contributing to reusable components and automation standards.<br><br> 🛠️ Tech Stack:<br>Low-Code: Power Platform (Apps, Automate, BI), SharePoint.<br>RPA: Blue Prism, Selenium.<br>Languages: Python, C, Java, SQL, Regex.<br>Tools: Git, Workflow Orchestration, Data Pipelines.<br><br> 📊 Impact in Numbers:<br> ⚡ +35% improvement in process execution speed.<br> 📉 40% reduction in repetitive manual tasks.<br> 🤖 Implemented automated email triage and data monitoring solutions.<br><br> 🌱 Currently:<br> 💡 Exploring AI-driven automation and scalable architectures.<br> 🗣️ Strengthening English communication skills for global environments.<br> 📫 Reach me at: linkedin.com/in/gabriellucassousa/ | gabriel172586@gmail.com</p>
+<p align="left">
+Software & Automation Engineer at Stellantis, focused on delivering enterprise-scale automation, software solutions, and data-driven products that generate measurable business impact across Brazil, Argentina, and Chile.<br><br>
+
+🚀 <b>What I Do:</b><br>
+• Enterprise Automation: Design and build scalable solutions using Power Automate, Power Apps, Python, and REST APIs.<br>
+• Data & Analytics: Develop Power BI dashboards and data solutions integrated with SQL for operational and strategic decision-making.<br>
+• AI & Workflows: Create intelligent workflows connecting AI, automation, and core business applications.<br>
+• QA & Reliability: Build QA and validation frameworks using Python and Selenium.<br>
+• Governance & Transformation: Support digital transformation initiatives with a strong focus on efficiency, scalability, and standards.<br><br>
+
+🛠️ <b>Tech Stack:</b><br>
+• Low-Code & Data: Power Platform (Apps, Automate, BI), SharePoint, SQL, Data Engineering.<br>
+• Languages & Automation: Python, C, C++, Java, Regex, REST APIs, Selenium.<br>
+• Frameworks & Tools: FastAPI, Flask, Git, Workflow Orchestration, Figma.<br><br>
+
+📊 <b>Impact in Numbers:</b><br>
+⚡ Promoted from Intern to Engineer in only 7 months due to high project impact.<br>
+📉 +60% reduction in manual operational activities.<br>
+🌎 Delivered cross-border solutions supporting operations across South America.<br><br>
+
+🌱 <b>Currently:</b><br>
+💡 Exploring AI-powered automation and intelligent business solutions.<br>
+📚 Pursuing a Computer Engineering degree while working full-time in enterprise technology.<br><br>
+
+📫 <b>Reach me at:</b><br>
+LinkedIn: <a href="https://linkedin.com/in/gabriellucassousa/">linkedin.com/in/gabriellucassousa</a><br>
+Email: gabriel172586@gmail.com
+</p>
 
 ###
 
@@ -19,29 +46,27 @@ olahndo com oque mecho hoje em dai modifique meu git <h1 align="left">Hey there�
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
 </div>
-
-###
