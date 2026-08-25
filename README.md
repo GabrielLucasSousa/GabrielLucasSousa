@@ -1,8 +1,4 @@
-Adicionei os ícones da **Power Platform** (Power Automate, Power Apps, Power BI, SharePoint), além de **SQL Server**, **Git**, **REST APIs** e **Blue Prism**, divididos organizadamente por categoria.
 
-Aqui está o código completo atualizado com a seção **"I code with"** atualizada. Basta copiar e colar no seu arquivo `README.md`:
-
-```markdown
 <h1 align="left">Hey there👋</h1>
 
 ###
@@ -105,5 +101,3 @@ Email: gabriel172586@gmail.com
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
-
-```
